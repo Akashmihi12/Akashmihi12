@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/akashmihiranga">
   <img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Akashmihi12&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Akashmihi12&base=500&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -169,12 +169,12 @@ Mobile application helping customers avoid physical queues, built during the pan
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akashmihi12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashmihi12&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akashmihi12&theme=github_dark" alt="GitHub Stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashmihi12&theme=github_dark" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Akashmihi12&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Akashmihi12&theme=github-dark-blue&hide_border=true&starting_year=2021&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 <br/><br/>
 
